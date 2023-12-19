@@ -23,6 +23,14 @@
 
   <main>
     {{ content }}
+    {% if paginator.posts %}
+      <h2>Recent Posts</h2>
+      <ul>
+        {% for post in paginator.posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </main>
 
   <footer>
