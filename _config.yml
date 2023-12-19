@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+title: Your Title
+description: Your Description
+
+plugins:
+  - jekyll-paginate
+
+paginate: 5
