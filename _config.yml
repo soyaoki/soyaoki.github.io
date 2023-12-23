@@ -1,6 +1,4 @@
 title: Your Title
 description: Your Description
-show_downloads: false
-theme: jekyll-theme-cayman
-
+remote_theme: chrisrhymes/bulma-clean-theme
 paginate: 5
