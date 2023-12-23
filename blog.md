@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: blog
 title: Blog
+permalink: /blog/
 ---
 
 # Blog Page
