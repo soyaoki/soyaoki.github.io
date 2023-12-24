@@ -1,9 +1,5 @@
 ---
 layout: blog
 title: Blog
-permalink: /blog/
+subtitle: Blog sub title
 ---
-
-# Blog Page
-
-This is the blog page content.
