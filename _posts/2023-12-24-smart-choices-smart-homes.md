@@ -21,7 +21,7 @@ To answer the above questions, we analyzed the [Ames Housing dataset](https://ww
 
 The top three variables that positively affected prices were `PoolQC_EX`, `BsmtCond_Gd`, and `BsmtCond_TA`, while the top three variables that negatively affected prices were `Heating_Grav`, `Neighborhood_MeadowV` and `Functional_Maj2`. It should be understood that properties with pools and basements in good condition will be priced higher. Also, if you are satisfied with the conditions of Gravity furnace and near Meadow Village, you may be able to live in a cheap house.
 
-![](./img/2023-12-24-feature-importance.png)
+![](/_posts/img/2023-12-24-feature-importance.png)
 
 # Q.2 Is there any seasonality in the real estate market?
 
