@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Choices, Smart Homes: A Data-Driven Approach to Home Purchases in Ames"
-date: 2023-12-24 09:00:00
+date: 2023-12-23 09:00:00
 ---
 
 For those considering purchasing a home in Ames, Iowa...
