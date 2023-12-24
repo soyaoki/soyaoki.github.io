@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
+subtitle: 
 ---
 
-# About Page
+# About This Site
 
 This is the about page content.
