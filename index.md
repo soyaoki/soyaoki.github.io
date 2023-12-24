@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -12,3 +12,4 @@ Welcome to my blog!
 {% for post in paginator.posts %}
   - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+
