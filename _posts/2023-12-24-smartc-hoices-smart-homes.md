@@ -3,7 +3,7 @@ layout: post
 title: "Smart Choices, Smart Homes: A Data-Driven Approach to Home Purchases in Ames"
 description: Project 1 in Udacity-DSND.
 date: 2023-12-24 09:00:00
-tags: 
+tags: data-science
 ---
 
 For those considering purchasing a home in Ames, Iowa...
