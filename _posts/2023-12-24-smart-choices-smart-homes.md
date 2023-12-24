@@ -21,26 +21,26 @@ To answer the above questions, we analyzed the [Ames Housing dataset](https://ww
 
 The top three variables that positively affected prices were `PoolQC_EX`, `BsmtCond_Gd`, and `BsmtCond_TA`, while the top three variables that negatively affected prices were `Heating_Grav`, `Neighborhood_MeadowV` and `Functional_Maj2`. It should be understood that properties with pools and basements in good condition will be priced higher. Also, if you are satisfied with the conditions of Gravity furnace and near Meadow Village, you may be able to live in a cheap house.
 
-![](./img/2023-12-24-feature-importance.png)
+![](/img/2023-12-24-feature-importance.png)
 
 # Q.2 Is there any seasonality in the real estate market?
 
 If you are purchasing a home, we recommend that you purchase in March. Also, since the prices tend to rise every year, we recommend that you purchase as soon as possible.The number of purchases is higher in April ~ July, and purchase prices tend to soar in November ~ February and June, although there are no major fluctuations.The average home (with a `BsmtCond` of TA and a `TotalBsmtSF` between 950 and 1030) has seen an increase in average price each year, although the number of purchases has decreased slightly each year.
 
 ## Yealy Trend
-![](./img/2023-12-24-Count-of-PurchasingHouse-yearly.png)
-![](./img/2023-12-24-SalePrice-yearly.png)
+![](/img/2023-12-24-Count-of-PurchasingHouse-yearly.png)
+![](/img/2023-12-24-SalePrice-yearly.png)
 
 ## Monthly Trend
-![](./img/2023-12-24-Count-of-PurchasingHouse-monthly.png)
-![](./img/2023-12-24-SalePrice-monthly.png)
+![](/img/2023-12-24-Count-of-PurchasingHouse-monthly.png)
+![](/img/2023-12-24-SalePrice-monthly.png)
 
 # Q.3 How does renovation or remodeling affect housing prices?
 
 Basically, the SalePrice decreases over time, but the decrease tends to be reset by remodeling.
 
-![](./img/2023-12-24-Age-Remod-and-NoRemod.png)
-![](./img/2023-12-24-Age-from-Build-and-Remod.png)
+![](/img/2023-12-24-Age-Remod-and-NoRemod.png)
+![](/img/2023-12-24-Age-from-Build-and-Remod.png)
 
 
 # Conclusion
