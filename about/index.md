@@ -1,9 +1,13 @@
 ---
 layout: page
 title: About
-subtitle: 
+subtitle: About sub title
 ---
+
+# About Me
+
+I'm just an engineer who loves technology.
 
 # About This Site
 
-This is the about page content.
+This is just a memorandum.
