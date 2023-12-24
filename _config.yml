@@ -1,3 +1,4 @@
 title: Memorandum
-remote_theme: chrisrhymes/bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: pages-themes/minimal
 paginate: 5
