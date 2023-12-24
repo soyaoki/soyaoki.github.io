@@ -1,7 +1,9 @@
 ---
-layout: about
+layout: page
+title: About
+permalink: /about/
 ---
 
-# About Me
+# About Page
 
-Write a brief description about yourself here.
+This is the about page content.
