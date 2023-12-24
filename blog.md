@@ -1,9 +1,9 @@
 ---
 layout: blog
+title: Blog
+permalink: /blog/
 ---
 
-# Blog
+# Blog Page
 
-{% for post in paginator.posts %}
-  - [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
+This is the blog page content.
