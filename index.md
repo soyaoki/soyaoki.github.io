@@ -1,15 +1,9 @@
 ---
 layout: home
-title: Home
 ---
 
-# Home Page
-
-Welcome to my blog!
-
-## Recent Posts
+# Welcome to My Blog!
 
 {% for post in paginator.posts %}
   - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
-
