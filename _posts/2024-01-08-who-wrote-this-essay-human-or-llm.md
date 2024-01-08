@@ -37,11 +37,14 @@ From [the dataset description](https://www.kaggle.com/competitions/llm-detect-ai
     
 - **Data Visualization** :
   **The dataset provided was found to be unbalanced, consisting mostly of human-written text.**
-  # [image1: Distribution of dataset]
+  
+  ![](/img/2024-01-08-distribution-of-dataset.png)
 
 # 3.Methodology
 - **Data Preprocessing** 
     - Add extra dataset : [Other dataset](https://www.kaggle.com/code/suyashkapil/detecting-llm-generated-texts)
+
+      ![](/img/2024-01-08-distribution-of-extra-dataset.png)
     - Drop duplicated : True
     - Drop na : False, there were no NA so no needed.
 - **Implementation** : 
@@ -63,12 +66,13 @@ From [the dataset description](https://www.kaggle.com/competitions/llm-detect-ai
 
 # 4.Results
 - **Model Evaluation and Validation** : Shown below
-# [image2: distribution of extra dataset]
-# [image3: AUC]
-# [image4: experiment]
+
+![](/img/2024-01-08-roc-base.png)
+![](/img/2024-01-08-auc.png)
 
 - **Justification** : Visualization by t-SNE
-# [image5: t-sne]
+
+![](/img/2024-01-08-t-sne-visualization.png)
 
 # 5.Conclusion
 - Reflection : 
