@@ -29,8 +29,9 @@ From [the dataset description](https://www.kaggle.com/competitions/llm-detect-ai
         - `instructions` - The instructions given to students.
         - `source_text` - The text of the article(s) the essays were written in response to, in Markdown format. Significant paragraphs are enumerated by a numeral preceding the paragraph on the same line, as in `0 Paragraph one.\n\n1 Paragraph two.`. Essays sometimes refer to a paragraph by its numeral. Each article is preceded with its title in a heading, like `# Title`. When an author is indicated, their name will be given in the title after `by`. Not all articles have authors indicated. An article may have subheadings indicated like `## Subheading`.
     3. **sample_submission.csv** - A submission file in the correct format. See the [Evaluation](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview/evaluation) page for details
+
 - **Data Visualization** :
-  **The dataset provided was found to be unbalanced, consisting mostly of human-written text.**
+  🚨 **The dataset provided was found to be unbalanced, consisting mostly of human-written text.** 🚨
   
   ![](/img/2024-01-08-distribution-of-dataset.png)
 
