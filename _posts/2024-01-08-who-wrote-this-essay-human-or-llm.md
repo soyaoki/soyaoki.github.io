@@ -73,6 +73,6 @@ From [the dataset description](https://www.kaggle.com/competitions/llm-detect-ai
 - **Improvement** : Typo counts may work as a feature. This is because LLMs are thought not to make mistakes, whereas humans have many typos. Sentence structure and the similarity between the input prompt and the essay could also be features to distinguish.
   
 # 6.Deliverables
-- **Write-up or Application** : this blog post and [web app](https://github.com/soyaoki/DSND-Capstone/tree/main).
-- **Github Repository** : repo of [web app](https://github.com/soyaoki/DSND-Capstone/tree/main).
+- **Write-up or Application** : This blog post and [web app](https://github.com/soyaoki/DSND-Capstone/tree/main).
+- **Github Repository** : Repo of [web app](https://github.com/soyaoki/DSND-Capstone/tree/main).
 - **Best Practices** : [Code](https://github.com/soyaoki/DSND-Capstone/blob/main/models/train_classifier.py) with DRY principles and PEP8.
